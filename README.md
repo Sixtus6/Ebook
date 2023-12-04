@@ -1,6 +1,6 @@
 # MeBook
 
-A new Flutter project.
+A Flutter UI application that allows user to Explore a rich library of books across genres with a stunning, user-friendly interface. Discover, read, and immerse yourself in captivating stories effortlessly.
 
 ## Getting Started
 
